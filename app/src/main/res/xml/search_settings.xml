@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory android:title="@string/search_settings" >
+
+        <ListPreference
+            android:title="@string/pref_video_len"
+            android:key="@string/pref_length_key"
+            android:entries="@array/pref_video_len_entries"
+            android:entryValues="@array/pref_video_len_values"
+            android:defaultValue="@string/pref_default_length"
+            app:useSimpleSummaryProvider="true"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

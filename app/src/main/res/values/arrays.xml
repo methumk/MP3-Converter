@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_video_len_entries">
+        <item>@string/pref_video_default</item>
+        <item>@string/pref_video_short</item>
+        <item>@string/pref_video_med</item>
+        <item>@string/pref_video_long</item>
+    </string-array>
+
+    <string-array name="pref_video_len_values">
+        <item>@string/pref_val_video_default</item>
+        <item>@string/pref_val_video_short</item>
+        <item>@string/pref_val_video_med</item>
+        <item>@string/pref_val_video_long</item>
+    </string-array>
+
+</resources>

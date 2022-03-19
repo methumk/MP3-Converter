@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">YoutubeConverter</string>
+
+    <string name="music_library_button">Music Library</string>
+    <string name="download_music_button">Download Music</string>
+    <string name="settings_button">Settings</string>
+
+    <string name="convert_youtube_video">Convert youtube video to MP3</string>
+    <string name="video_listen">Listen</string>
+
+    <string name="music_search_hint">Enter youtube search</string>
+    <string name="music_search_prompt">What type of music would you like to search for?</string>
+    <string name="search">Search</string>
+
+    <string name="search_settings">Music Search Settings</string>
+    <string name="pref_video_len">Video Length Preference</string>
+    <string name="pref_length_key" translatable="false">length</string>
+
+    <string name="pref_video_default">Any length</string>
+    <string name="pref_video_short">Less than 4 min</string>
+    <string name="pref_video_med">4-20 min</string>
+    <string name="pref_video_long">20+ min</string>
+
+    <string name="pref_val_video_default" translatable="false">any</string>
+    <string name="pref_val_video_short" translatable="false">short</string>
+    <string name="pref_val_video_med" translatable="false">medium</string>
+    <string name="pref_val_video_long" translatable="false">long</string>
+
+    <string name="pref_default_length">@string/pref_val_video_default</string>
+
+
+    <string name="search_error">Search Error</string>
+    <string name="empty_search_result">No Results for Search</string>
+    <string name="storage_error">Unable to find any songs. Try again after downloading a song.</string>
+    <string name="action_refresh">Refresh Song List</string>
+    <string name="app_folder">%YouTube Converter%</string>
+
+
+    <string name="custom_song_hint">(Optional) Enter Custom Song Name</string>
+
+</resources>
